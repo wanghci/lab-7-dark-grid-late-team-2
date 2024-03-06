@@ -1,0 +1,32 @@
+.dark {
+    .main-head {
+        background-color: black;
+        border: 5px dashed white;
+        color: white;
+      }
+      .content {
+        background-color: black;
+        border: 5px dashed white;
+        color: white;
+      }
+      .main-nav {
+        background-color: black;
+        border: 5px dashed white;
+        color: white;
+      }
+      .side {
+        background-color: black;
+        border: 5px dashed white;
+        color: white;
+      }
+      .ad {
+        background-color: black;
+        border: 5px dashed white;
+        color: white;
+      }
+      .main-footer {
+        background-color: black;
+        border: 5px dashed white;
+        color: white;
+      }
+}
